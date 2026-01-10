@@ -17,5 +17,8 @@ and gradually transition into **real-world AI & Data Science workflows**.
 
 ---
 
-## 📂 Repository Structure
+👤 Author
+
+Mihirr
+Aspiring Data Scientist & AI Engineer
 
