@@ -1,20 +1,39 @@
-# Chapter 05 – Strings in Python
+# Chapter 05 – Strings & String Functions in Python
 
-This chapter focuses on **strings in Python**, which are essential for handling
-text data in **Data Science, Artificial Intelligence, and NLP workflows**.
+This chapter focuses on **strings and string functions (methods)** in Python.
+String handling is a critical skill for **Data Science, Artificial Intelligence,
+and Natural Language Processing (NLP)** applications.
 
-Strings are widely used for labels, logs, text preprocessing, and model outputs.
+The examples in this chapter are written with **real-world data cleaning and
+text preprocessing scenarios** in mind.
 
 ---
 
 ## 📌 Topics Covered
 
-- String basics and creation
-- String operations
-- Common string methods
-- String formatting techniques
+### String Basics
+- Creating strings
+- Multiline strings
+- Basic string operations
 
-Each topic is demonstrated using **three clear examples** for better understanding.
+### String Operations
+- Concatenation
+- Repetition
+- Length calculation
+
+### String Functions (Methods)
+The following built-in string functions are covered with practical examples:
+
+- `lower()` / `upper()`
+- `strip()` / `lstrip()` / `rstrip()`
+- `replace()`
+- `split()`
+- `find()`
+- `count()`
+- `startswith()`
+- `endswith()`
+
+Each function is demonstrated using **multiple examples** to ensure clarity.
 
 ---
 
@@ -24,18 +43,22 @@ Each topic is demonstrated using **three clear examples** for better understandi
   Basic string creation and multiline strings
 
 - `string_operations.py`  
-  Concatenation, repetition, and length calculation
+  Common operations like concatenation, repetition, and length
 
 - `string_methods.py`  
-  Common methods like `upper()`, `replace()`, and `split()`
+  Core string methods used in everyday programming
 
 - `string_formatting.py`  
   Formatting strings using f-strings and `format()`
+
+- `string_functions.py`  
+  Practical string functions used in data cleaning and preprocessing
 
 ---
 
 ## ▶️ How to Run
 
 Navigate to this folder and run any file:
+
 ```bash
-python string_basics.py
+python string_functions.py
