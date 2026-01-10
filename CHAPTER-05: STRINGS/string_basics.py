@@ -1,5 +1,5 @@
 # Example 1: Simple string
-name = "Mihir"
+name = "shree"
 print(name)
 
 # Example 2: String with spaces
