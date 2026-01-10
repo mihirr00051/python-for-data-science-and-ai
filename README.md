@@ -8,17 +8,16 @@ and gradually transition into **real-world AI & Data Science workflows**.
 
 ---
 
-## 🔍 Why this Repository?
+## 🔍 Why This Repository?
 
-- Learn Python in a **clear, chapter-wise manner**
+- Learn Python in a **clear, chapter-wise structured manner**
 - Focus on **Data Science & AI use cases**, not just syntax
-- Maintain **clean, professional code structure**
-- Build a **strong GitHub profile** for internships and jobs
+- Maintain **clean and professional code organization**
+- Build a **strong GitHub profile** for internships and entry-level roles
 
 ---
 
-👤 Author
+## 👤 Author
 
-Mihirr
+**Mihirr**  
 Aspiring Data Scientist & AI Engineer
-
