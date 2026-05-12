@@ -20,4 +20,4 @@ and gradually transition into **real-world AI & Data Science workflows**.
 ## 👤 Author
 
 **Mihirr**  
-Aspiring Data Scientist & AI Engineer
+Aspiring Data Analyst & AI 
